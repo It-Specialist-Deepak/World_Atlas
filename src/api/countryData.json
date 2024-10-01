@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 13929286,
+    "interestingFact": "Tokyo is the most populous metropolitan area in the world.",
+    "flag": "https://flagcdn.com/jp.svg"
+  },
+  {
+    "id": 2,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 2148327,
+    "interestingFact": "Paris is often called 'The City of Light' because it was one of the first cities to have street lighting.",
+    "flag": "https://flagcdn.com/fr.svg"
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 3094325,
+    "interestingFact": "Brasilia was designed in the shape of an airplane and was built in just 41 months.",
+    "flag": "https://flagcdn.com/br.svg"
+  },
+  {
+    "id": 4,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 31870000,
+    "interestingFact": "New Delhi is known for its rich history and is home to three UNESCO World Heritage sites.",
+    "flag": "https://flagcdn.com/in.svg"
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 462000,
+    "interestingFact": "Canberra was chosen as the capital as a compromise between Sydney and Melbourne.",
+    "flag": "https://flagcdn.com/au.svg"
+  },
+  {
+    "id": 6,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 1016000,
+    "interestingFact": "Ottawa is home to the world's largest skating rink, the Rideau Canal.",
+    "flag": "https://flagcdn.com/ca.svg"
+  },
+  {
+    "id": 7,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 2873000,
+    "interestingFact": "Rome has an independent country within it: Vatican City, the smallest country in the world.",
+    "flag": "https://flagcdn.com/it.svg"
+  },
+  {
+    "id": 8,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 9900000,
+    "interestingFact": "Cairo is known as 'The City of a Thousand Minarets' for its stunning Islamic architecture.",
+    "flag": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "id": 9,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 741651,
+    "interestingFact": "Pretoria is one of South Africa’s three capitals and is known for its purple Jacaranda trees.",
+    "flag": "https://flagcdn.com/za.svg"
+  },
+  {
+    "id": 10,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 3644826,
+    "interestingFact": "Berlin is home to the largest train station in Europe.",
+    "flag": "https://flagcdn.com/de.svg"
+  }
+]
